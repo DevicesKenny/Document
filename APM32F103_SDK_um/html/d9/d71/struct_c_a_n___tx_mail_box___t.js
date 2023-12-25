@@ -1,0 +1,26 @@
+var struct_c_a_n___tx_mail_box___t =
+[
+    [ "DATABYTE0", "d9/d71/struct_c_a_n___tx_mail_box___t.html#ac5b0553d8a50da23c7d493c4cf816f94", null ],
+    [ "DATABYTE1", "d9/d71/struct_c_a_n___tx_mail_box___t.html#aaf7fb4dac3fa5bdd4688a94ce0ed19ba", null ],
+    [ "DATABYTE2", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a0d43a9a32d5ab4f885782b0ecb753c48", null ],
+    [ "DATABYTE3", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a940fe484d42722e02b06fb6193e3a9eb", null ],
+    [ "DATABYTE4", "d9/d71/struct_c_a_n___tx_mail_box___t.html#ab10efd7b3493240224ce336909aaae37", null ],
+    [ "DATABYTE5", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a0ddff82e8f9c0712cb326bdd01a7f7a4", null ],
+    [ "DATABYTE6", "d9/d71/struct_c_a_n___tx_mail_box___t.html#ae1695e7aa116eff5c3bbe3e65252d404", null ],
+    [ "DATABYTE7", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a35486bb9d4ee83ea22fb5cc324c9a47f", null ],
+    [ "DLCODE", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a2a5125abeaa15ea281051069133255d5", null ],
+    [ "EXTID", "d9/d71/struct_c_a_n___tx_mail_box___t.html#aaca3fc46d7e89c291b7be6ea07848c4c", null ],
+    [ "IDTYPESEL", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a1fff790f30244f857b1001a5cee2a3a0", null ],
+    [ "RESERVED", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a9335e4606192b1b304718842ab39c33f", null ],
+    [ "STDID", "d9/d71/struct_c_a_n___tx_mail_box___t.html#aa981484bca22659e848e51242e4a0629", null ],
+    [ "TXDLEN", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a242dda967b50ec81b8c47203ab7dbdc7", null ],
+    [ "TXDLEN_B", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a4655b33cd57b337c6e429b77769f7c33", null ],
+    [ "TXMDH", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a55279e13c586f7f6e5a4e797b73a75a9", null ],
+    [ "TXMDH_B", "d9/d71/struct_c_a_n___tx_mail_box___t.html#afaf1f11747f3651616b26d30486ccad9", null ],
+    [ "TXMDL", "d9/d71/struct_c_a_n___tx_mail_box___t.html#ab2fb9efb222644e1359f81082f86a8ff", null ],
+    [ "TXMDL_B", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a94d2ce7fe862d4f5c6ebae5c77665a41", null ],
+    [ "TXMID", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a7ca02746667c099c83a4663084089c2b", null ],
+    [ "TXMID_B", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a94600328cf665b5c366205d233755e74", null ],
+    [ "TXMREQ", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a36bf4391e01590b73a3591a08e0f9490", null ],
+    [ "TXRFREQ", "d9/d71/struct_c_a_n___tx_mail_box___t.html#a1d3f8d04b9427fb70d0d80d25f6d0190", null ]
+];

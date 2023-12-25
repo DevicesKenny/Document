@@ -1,0 +1,27 @@
+var struct_d_m_a___channel___t =
+[
+    [ "CHCFG", "d1/de7/struct_d_m_a___channel___t.html#a14dacfbbef7a8a82c3f7b8654561295d", null ],
+    [ "CHCFG_B", "d1/de7/struct_d_m_a___channel___t.html#adc50e91d1a31ec5732570bbc3e6857f8", null ],
+    [ "CHEN", "d1/de7/struct_d_m_a___channel___t.html#ac1753defc13cbc38ec074d2ae2b239ce", null ],
+    [ "CHMADDR", "d1/de7/struct_d_m_a___channel___t.html#ac968da55621948a1da44f40efeddbc19", null ],
+    [ "CHMADDR_B", "d1/de7/struct_d_m_a___channel___t.html#a1d163ba850f154c554e89cc09c94975e", null ],
+    [ "CHNDATA", "d1/de7/struct_d_m_a___channel___t.html#a5296bdbcc518353e67e2ccfd9260fa2e", null ],
+    [ "CHNDATA_B", "d1/de7/struct_d_m_a___channel___t.html#a56aa4183d0dea8022735f78058d42889", null ],
+    [ "CHPADDR", "d1/de7/struct_d_m_a___channel___t.html#a6c219e3f93b7ee6dbfab98baa69c004b", null ],
+    [ "CHPADDR_B", "d1/de7/struct_d_m_a___channel___t.html#a6ad227686cb9c3fa180e62b21f685a16", null ],
+    [ "CHPL", "d1/de7/struct_d_m_a___channel___t.html#aca5554ae910d484d3d6747c4b248ea0a", null ],
+    [ "CIRMODE", "d1/de7/struct_d_m_a___channel___t.html#ace24a4b6e9799bbe771d2f2d5a2216ec", null ],
+    [ "DIRCFG", "d1/de7/struct_d_m_a___channel___t.html#affa62716b28631b3e2957474e63a0acf", null ],
+    [ "HTINTEN", "d1/de7/struct_d_m_a___channel___t.html#a868a57c6c594e300bd96de880cbfe6bb", null ],
+    [ "M2MMODE", "d1/de7/struct_d_m_a___channel___t.html#ac34467f2c9647ef52566c69e909d63d5", null ],
+    [ "MEMADDR", "d1/de7/struct_d_m_a___channel___t.html#afa6fa38c980ddcdf32867a37448b5d52", null ],
+    [ "MEMSIZE", "d1/de7/struct_d_m_a___channel___t.html#a22229759a3c93e04dc5251d51ef4c4a5", null ],
+    [ "MIMODE", "d1/de7/struct_d_m_a___channel___t.html#af336466bdc6e56ccb5971f4f87054077", null ],
+    [ "NDATA", "d1/de7/struct_d_m_a___channel___t.html#a9b8258a04cce555e6563ef0bd7390653", null ],
+    [ "PERADDR", "d1/de7/struct_d_m_a___channel___t.html#ab9e61059246421eecf163d2f1d6a4bd0", null ],
+    [ "PERIMODE", "d1/de7/struct_d_m_a___channel___t.html#ac61ad87230cde26bad8bb2e7b2d4d4f5", null ],
+    [ "PERSIZE", "d1/de7/struct_d_m_a___channel___t.html#a7d466c4dd3d2d55e663f3a3ba511558a", null ],
+    [ "RESERVED", "d1/de7/struct_d_m_a___channel___t.html#aa3e4fbe32cad58fba99ae8cc009fbb09", null ],
+    [ "TCINTEN", "d1/de7/struct_d_m_a___channel___t.html#a3a5a2e7f0e9fa9f836f07558673afe93", null ],
+    [ "TERRINTEN", "d1/de7/struct_d_m_a___channel___t.html#ae5b5bacc25527c2a143c33864e13bcde", null ]
+];

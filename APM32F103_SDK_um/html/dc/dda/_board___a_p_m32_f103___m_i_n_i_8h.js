@@ -1,0 +1,67 @@
+var _board___a_p_m32_f103___m_i_n_i_8h =
+[
+    [ "BUTTONn", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#ga43d47e509ada64329393005c3be15d64", null ],
+    [ "COMn", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga0f2aa41d83898d7dd8601e08cfacf738", null ],
+    [ "KEY1_BUTTON_EINT_IRQn", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#gaa635680b9df4cac320fdb345e7bc2296", null ],
+    [ "KEY1_BUTTON_EINT_LINE", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#ga63582ab9b3becaa0e19f2771f58fd88b", null ],
+    [ "KEY1_BUTTON_EINT_PIN_SOURCE", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#ga58a26005a196fc981b23c007451f188f", null ],
+    [ "KEY1_BUTTON_EINT_PORT_SOURCE", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#gad5eb93050cdfc6e313cafedbe0f32e04", null ],
+    [ "KEY1_BUTTON_GPIO_CLK", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#ga27d6c1c77b780888432632469c245e4e", null ],
+    [ "KEY1_BUTTON_GPIO_PORT", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#ga6bde5e7ae588760ab7e20a853e50f4e9", null ],
+    [ "KEY1_BUTTON_PIN", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#gacb4086af6d3aadb16899f56acf3d770f", null ],
+    [ "KEY2_BUTTON_EINT_IRQn", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#ga2a389a6fadea066861a3fc567475e1a0", null ],
+    [ "KEY2_BUTTON_EINT_LINE", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#gadca2de6e3bd517d390082e1cefdf7f6d", null ],
+    [ "KEY2_BUTTON_EINT_PIN_SOURCE", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#gaffeae8bf5552962f3357956b434b2477", null ],
+    [ "KEY2_BUTTON_EINT_PORT_SOURCE", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#ga4b65f2dcf7f43ed1497ca761e1c225b8", null ],
+    [ "KEY2_BUTTON_GPIO_CLK", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#gad26278a73dd523e6c235febc13ac9db7", null ],
+    [ "KEY2_BUTTON_GPIO_PORT", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#gab3c8a3487bed46945637906fc3651b19", null ],
+    [ "KEY2_BUTTON_PIN", "df/d0a/group___a_p_m32_f103___m_i_n_i___b_u_t_t_o_n.html#ga2e57a7468ce8724787fcb39cbe9b4c2c", null ],
+    [ "LED2_GPIO_CLK", "db/d8e/group___a_p_m32_f103___m_i_n_i___l_e_d.html#ga972d10beb8aa0aa7a6edf70e5a6200ff", null ],
+    [ "LED2_GPIO_PORT", "db/d8e/group___a_p_m32_f103___m_i_n_i___l_e_d.html#gaf88822ae4b79d37c7735ce1160b59f68", null ],
+    [ "LED2_PIN", "db/d8e/group___a_p_m32_f103___m_i_n_i___l_e_d.html#gaf6f84078113b55354d20585131b386f7", null ],
+    [ "LED3_GPIO_CLK", "db/d8e/group___a_p_m32_f103___m_i_n_i___l_e_d.html#gaf4e64981a3f4584fb771aa4cbc093c61", null ],
+    [ "LED3_GPIO_PORT", "db/d8e/group___a_p_m32_f103___m_i_n_i___l_e_d.html#ga050f4b3a1f402476f9541dfe975d2143", null ],
+    [ "LED3_PIN", "db/d8e/group___a_p_m32_f103___m_i_n_i___l_e_d.html#ga4cb3ff938bcabb01494ce529ae55a542", null ],
+    [ "LEDn", "db/d8e/group___a_p_m32_f103___m_i_n_i___l_e_d.html#gab4be2480bf7d44d52aab1190a65a733c", null ],
+    [ "MINI_COM1", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#gaef9906a0104cc937a004f3d330ee2634", null ],
+    [ "MINI_COM1_CLK", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga3c17477d2434eae6618a33371806c9a1", null ],
+    [ "MINI_COM1_IRQn", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#gaf9eea2023149d856829ffc5cd1820a84", null ],
+    [ "MINI_COM1_RX_GPIO_CLK", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga87015b64790d63d012469670b135533b", null ],
+    [ "MINI_COM1_RX_GPIO_PORT", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga3a6dcff601d7602cbe7ccc9288cc9017", null ],
+    [ "MINI_COM1_RX_PIN", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga2e62cc134e959cb6bf6a37d67dced0b6", null ],
+    [ "MINI_COM1_TX_GPIO_CLK", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga94f999a54455b366402737e2ee8fc78b", null ],
+    [ "MINI_COM1_TX_GPIO_PORT", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga77f26f4133e57895a304cb44d3266c5d", null ],
+    [ "MINI_COM1_TX_PIN", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga43673636b3e084583de9e066702845ee", null ],
+    [ "MINI_COM2", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#gac137bd4c7ce1f4457012fc99f80a1fb1", null ],
+    [ "MINI_COM2_CLK", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga28f5719d46a1b68bfcb3834ba0a751de", null ],
+    [ "MINI_COM2_IRQn", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga0ec8b967772c0c724bec88722a75ae21", null ],
+    [ "MINI_COM2_RX_GPIO_CLK", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga1a5fcbd4f7f7f669c61fa44d7a4d5c06", null ],
+    [ "MINI_COM2_RX_GPIO_PORT", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga6213f4948526e56c369ac14d3b173592", null ],
+    [ "MINI_COM2_RX_PIN", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#ga7df40a7268e2b4ebb4bcf9a7830fccc8", null ],
+    [ "MINI_COM2_TX_GPIO_CLK", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#gacf4dd9ffbec60290e77f2a728a2c8460", null ],
+    [ "MINI_COM2_TX_GPIO_PORT", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#gaac1c07c4afb614dc52a9e72de4fafc2c", null ],
+    [ "MINI_COM2_TX_PIN", "df/d62/group___a_p_m32_f103___m_i_n_i___c_o_m.html#gacb7abaeb1a79b8131707189257084a9f", null ],
+    [ "Button_TypeDef", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#ga643816dfbad5c734fc25a29ce8d35bb1", [
+      [ "BUTTON_KEY1", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#gga643816dfbad5c734fc25a29ce8d35bb1af5275acbb64037f34f9898ff90ef992d", null ],
+      [ "BUTTON_KEY2", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#gga643816dfbad5c734fc25a29ce8d35bb1a06cff3bfceda141977676309c18c4186", null ]
+    ] ],
+    [ "ButtonMode_TypeDef", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#ga48825b7c7d851c440ef8e808fd9d8f0a", [
+      [ "BUTTON_MODE_GPIO", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#gga48825b7c7d851c440ef8e808fd9d8f0aa9411f3542831027b24c493abfb998522", null ],
+      [ "BUTTON_MODE_EINT", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#gga48825b7c7d851c440ef8e808fd9d8f0aab773319b525d772757c86f9c3401c185", null ]
+    ] ],
+    [ "COM_TypeDef", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#ga0d9f70ee0fbaaea432fe744a3a41868c", [
+      [ "COM1", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#gga0d9f70ee0fbaaea432fe744a3a41868ca2c3b087160821fa51ec881baa6683f02", null ],
+      [ "COM2", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#gga0d9f70ee0fbaaea432fe744a3a41868ca7e5904bb14d7a1b4d755c495754ee9b9", null ]
+    ] ],
+    [ "Led_TypeDef", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#gaa059704b7ca945eb9c1e7f2c3d03fecd", [
+      [ "LED2", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#ggaa059704b7ca945eb9c1e7f2c3d03fecda8379bbaa96d151e6adac488b2a147b7a", null ],
+      [ "LED3", "d9/d04/group___a_p_m32_f103___m_i_n_i___enumerations.html#ggaa059704b7ca945eb9c1e7f2c3d03fecda5dec293e081e0fc78369c842fab8452b", null ]
+    ] ],
+    [ "APM_MINI_COMInit", "d9/dc7/group___a_p_m32_f103___m_i_n_i___functions.html#ga47ab677ed2554a67f13a3b147699c668", null ],
+    [ "APM_MINI_LEDInit", "d9/dc7/group___a_p_m32_f103___m_i_n_i___functions.html#ga61cce828c9d3d4a418354135adea9c9b", null ],
+    [ "APM_MINI_LEDOff", "d9/dc7/group___a_p_m32_f103___m_i_n_i___functions.html#gaf9747c16f7af6d65bd1a2d63da2606f6", null ],
+    [ "APM_MINI_LEDOn", "d9/dc7/group___a_p_m32_f103___m_i_n_i___functions.html#gab3bbfac1f9decc42162cffbeef55bb80", null ],
+    [ "APM_MINI_LEDToggle", "d9/dc7/group___a_p_m32_f103___m_i_n_i___functions.html#ga2f6f993fdf87c8fe813a681873b043ff", null ],
+    [ "APM_MINI_PBGetState", "d9/dc7/group___a_p_m32_f103___m_i_n_i___functions.html#ga827affcb80529cf6c943b0bc1dd9ea06", null ],
+    [ "APM_MINI_PBInit", "d9/dc7/group___a_p_m32_f103___m_i_n_i___functions.html#ga9debe69d4ee2f98bdae36716e94d0909", null ]
+];

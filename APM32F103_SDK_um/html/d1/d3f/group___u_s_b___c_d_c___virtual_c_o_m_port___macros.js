@@ -1,0 +1,27 @@
+var group___u_s_b___c_d_c___virtual_c_o_m_port___macros =
+[
+    [ "SRTING_DESC_NUM", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga71872974ee92a01fc3144427930c51bc", null ],
+    [ "USB1", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga64f76e9d77542646c1387ff29c975b05", null ],
+    [ "USB2", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga6f223f937491eab10b705f1ea533d983", null ],
+    [ "USB_BUFFER_TABLE_ADDR", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga3ada28a1e22c90cf8bbaf77e5f4af34f", null ],
+    [ "USB_CONFIG_DESCRIPTOR_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gac92493fb73d8e7474f9a54cdceafdf74", null ],
+    [ "USB_CONFIGURATION_NUM", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga653f92e39ba6bf4a3d220c63b61bfd24", null ],
+    [ "USB_DEVICE_DESCRIPTOR_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gaf345d16450600ec3c5723789c175e01d", null ],
+    [ "USB_EP0_PACKET_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga75ea200f227f8f25545643ce1efc4841", null ],
+    [ "USB_EP0_RX_ADDR", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga377975cb758524154e0fe4fa0814700d", null ],
+    [ "USB_EP0_TX_ADDR", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gaed0391cac1c58c2d2a7f3b6e801abfa7", null ],
+    [ "USB_EP1_RX_ADDR", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gae0d4204964a2fec79c8770e5f39b9c5d", null ],
+    [ "USB_EP1_TX_ADDR", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga5468e9028697c6acfd004dfc22a139ae", null ],
+    [ "USB_EP2_TX_ADDR", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gab3248fd5b70b98b4b5cdf6b521e2fb46", null ],
+    [ "USB_EP_MAX_NUM", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga46e3601b6f3f95dd093a80a4e50fcf8e", null ],
+    [ "USB_INT_SOURCE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga984e4f4e08c69e070bbd935f18c3ddac", null ],
+    [ "USB_LANGID_STRING_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gac11ca709970b949d0de7fff02129a8b2", null ],
+    [ "USB_LOW_POWER_SWITCH", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga2cbc7b665feb9788ad2a901d0a4f0766", null ],
+    [ "USB_PRODUCT_STRING_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gabdbb029660fed202bf6115de87c9e04b", null ],
+    [ "USB_QUALIFIER_DESCRIPTOR_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga51afccad9d1da6ffce6cd7ed902fffd7", null ],
+    [ "USB_SELECT", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gab5967ea276e20ff0fdf483e09e113b64", null ],
+    [ "USB_SERIAL_STRING_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gafbca2f6f7e1d2052b2d7410fde8e7a7f", null ],
+    [ "USB_USER_STRING_1_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#gaa02b42e092a776b4e67b5732d412bfa7", null ],
+    [ "USB_USER_STRING_2_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga6f4050a26cf55181dd5171ff7360b377", null ],
+    [ "USB_VENDOR_STRING_SIZE", "d1/d3f/group___u_s_b___c_d_c___virtual_c_o_m_port___macros.html#ga574e6043d611306c0cfb6bf4ba689964", null ]
+];

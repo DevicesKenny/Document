@@ -1,0 +1,28 @@
+var struct_u_s_b_d___info___t =
+[
+    [ "classReqHandler", "d3/db8/struct_u_s_b_d___info___t.html#ae23c2b04675f350b9b9721a75953de0a", null ],
+    [ "configurationNum", "d3/db8/struct_u_s_b_d___info___t.html#ae11166926d15caefdf227dd9681ccccd", null ],
+    [ "ctrlState", "d3/db8/struct_u_s_b_d___info___t.html#ae0450eef87239ba81883603640ebc975", null ],
+    [ "curAlternateSetting", "d3/db8/struct_u_s_b_d___info___t.html#a615f6ce9073b8c64c918aff029cacb1d", null ],
+    [ "curConfiguration", "d3/db8/struct_u_s_b_d___info___t.html#a0132e4f44719ad0df5d447f7a6235727", null ],
+    [ "curFeature", "d3/db8/struct_u_s_b_d___info___t.html#a00e168b8a64ffefd769b0d62c288b1ca", null ],
+    [ "curInterface", "d3/db8/struct_u_s_b_d___info___t.html#a7f9de8f7135a757b55c526ba1abfa849", null ],
+    [ "devState", "d3/db8/struct_u_s_b_d___info___t.html#ab5b4f680aa152cc04b23b3566d82001e", null ],
+    [ "inBuf", "d3/db8/struct_u_s_b_d___info___t.html#ae0c77f2e9102343490f13592f5a46318", null ],
+    [ "inEpHandler", "d3/db8/struct_u_s_b_d___info___t.html#ab10ea2d1fae98d8cda77c70c1106dbe7", null ],
+    [ "intHandler", "d3/db8/struct_u_s_b_d___info___t.html#aa7a24d0cdec7197b6bc60dcd1e660ee9", null ],
+    [ "outBuf", "d3/db8/struct_u_s_b_d___info___t.html#ab6dc55be22bc19206164ec44556be706", null ],
+    [ "outEpHandler", "d3/db8/struct_u_s_b_d___info___t.html#a720868c3dafa23b55f53de6b8b718624", null ],
+    [ "pConfigurationDesc", "d3/db8/struct_u_s_b_d___info___t.html#a646c46e1a895ed2c80cc3cac302c442c", null ],
+    [ "pDeviceDesc", "d3/db8/struct_u_s_b_d___info___t.html#ae95f31d183e286706170e72f027dfbcb", null ],
+    [ "pHidReportDesc", "d3/db8/struct_u_s_b_d___info___t.html#a538fa48b312b1b86c5dc8be49c8d02d5", null ],
+    [ "pQualifierDesc", "d3/db8/struct_u_s_b_d___info___t.html#a1abe112aa0dff7c13815f91c7b66525f", null ],
+    [ "pStdReqCallback", "d3/db8/struct_u_s_b_d___info___t.html#a8a92b3b9147c635ed6f1fdeb40bba8ec", null ],
+    [ "pStringDesc", "d3/db8/struct_u_s_b_d___info___t.html#aad2cc2da51f274fb1081308fdc134b8f", null ],
+    [ "reqData", "d3/db8/struct_u_s_b_d___info___t.html#a3837cd7cdf76c7a3344a80123c9b6b81", null ],
+    [ "resetHandler", "d3/db8/struct_u_s_b_d___info___t.html#a846fa4f1e897aec0d2c4697a83d6fcd3", null ],
+    [ "rxStatusHandler", "d3/db8/struct_u_s_b_d___info___t.html#ab4ce1a126cb5d75c9711b5c77210530f", null ],
+    [ "stdReqExceptionHandler", "d3/db8/struct_u_s_b_d___info___t.html#acc13a055d1ea6603dbe8613fcd9fb0ee", null ],
+    [ "txStatusHandler", "d3/db8/struct_u_s_b_d___info___t.html#a13eb610fad8d1035a45ad4dc77a9a4d2", null ],
+    [ "vendorReqHandler", "d3/db8/struct_u_s_b_d___info___t.html#ab857635d9e0d8ae84266327baf9fcd32", null ]
+];

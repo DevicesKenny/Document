@@ -1,0 +1,28 @@
+var struct_c_a_n___rx_mail_box___t =
+[
+    [ "DATABYTE0", "de/d67/struct_c_a_n___rx_mail_box___t.html#a167115c447f3d4cf6c8ff02db253f09a", null ],
+    [ "DATABYTE1", "de/d67/struct_c_a_n___rx_mail_box___t.html#a1346ec39bdad97e6b1ce2759d972b8e1", null ],
+    [ "DATABYTE2", "de/d67/struct_c_a_n___rx_mail_box___t.html#a87ad2bd44697a6d828d39e0365969d9c", null ],
+    [ "DATABYTE3", "de/d67/struct_c_a_n___rx_mail_box___t.html#ac92ccff516693afe7f8819e950cecc8d", null ],
+    [ "DATABYTE4", "de/d67/struct_c_a_n___rx_mail_box___t.html#a4f236af63b77644f7227aa394f810ec0", null ],
+    [ "DATABYTE5", "de/d67/struct_c_a_n___rx_mail_box___t.html#a6d2da835b2e78ffddaa1653ac6c1f5c9", null ],
+    [ "DATABYTE6", "de/d67/struct_c_a_n___rx_mail_box___t.html#a66f372a1c173f654850018bc949b15a6", null ],
+    [ "DATABYTE7", "de/d67/struct_c_a_n___rx_mail_box___t.html#ae46f50f7a901b357f9b59efa99feab3e", null ],
+    [ "DLCODE", "de/d67/struct_c_a_n___rx_mail_box___t.html#a3e32c56e3459cc5ff46c76678cbf8717", null ],
+    [ "EXTID", "de/d67/struct_c_a_n___rx_mail_box___t.html#aac76dffd3d5d63df760a03f4bc769c04", null ],
+    [ "FMIDX", "de/d67/struct_c_a_n___rx_mail_box___t.html#aff05ff41f6476acf53568de14574e384", null ],
+    [ "IDTYPESEL", "de/d67/struct_c_a_n___rx_mail_box___t.html#afb83e5c7189b2f178f04cc475cbf874e", null ],
+    [ "RESERVED", "de/d67/struct_c_a_n___rx_mail_box___t.html#aa3e4fbe32cad58fba99ae8cc009fbb09", null ],
+    [ "RESERVED1", "de/d67/struct_c_a_n___rx_mail_box___t.html#ae6f713372a320d4410e88c69ed900125", null ],
+    [ "RESERVED2", "de/d67/struct_c_a_n___rx_mail_box___t.html#acc4800dd67fc2212e148265245a0534b", null ],
+    [ "RFTXREQ", "de/d67/struct_c_a_n___rx_mail_box___t.html#a55dcfd492f7ca47b442892b56de0fc38", null ],
+    [ "RXDLEN", "de/d67/struct_c_a_n___rx_mail_box___t.html#ab40256ea5dbd9a712b8d00fb115aacd4", null ],
+    [ "RXDLEN_B", "de/d67/struct_c_a_n___rx_mail_box___t.html#a32185f5f8b4a691e33940ea7e4c87bf3", null ],
+    [ "RXMDH", "de/d67/struct_c_a_n___rx_mail_box___t.html#af839167b765287522aa0e5ee2b0e866a", null ],
+    [ "RXMDH_B", "de/d67/struct_c_a_n___rx_mail_box___t.html#aa39e4857362ca6caa689623d3b956aff", null ],
+    [ "RXMDL", "de/d67/struct_c_a_n___rx_mail_box___t.html#a5ef41d919e48a2cc27fc03314e201352", null ],
+    [ "RXMDL_B", "de/d67/struct_c_a_n___rx_mail_box___t.html#ac900062c5de819a58cf5b57d8513d084", null ],
+    [ "RXMID", "de/d67/struct_c_a_n___rx_mail_box___t.html#a834ca009dcdc4328d582878f720581f1", null ],
+    [ "RXMID_B", "de/d67/struct_c_a_n___rx_mail_box___t.html#a0e0f9480e892cbc80cf3065fbb593a33", null ],
+    [ "STDID", "de/d67/struct_c_a_n___rx_mail_box___t.html#aa7177da2db43aa94655bdc201669ec75", null ]
+];

@@ -1,0 +1,28 @@
+var _o_t_g_2_o_t_g___device_2_u_s_b_d___m_s_c_2_include_2usbd__descriptor_8h =
+[
+    [ "UID_ADDRESS1", "da/d8b/group___u_s_b_d___m_s_c___macros.html#ga9bcff83c1b89ddab09713e02075b7ae0", null ],
+    [ "UID_ADDRESS2", "da/d8b/group___u_s_b_d___m_s_c___macros.html#ga9ffa2bc322cf8599ebd23aa5c20705bd", null ],
+    [ "UID_ADDRESS3", "da/d8b/group___u_s_b_d___m_s_c___macros.html#ga004f3bcde371417287e76e9fafef033d", null ],
+    [ "USB_CONFIG_DESCRIPTOR_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#gac92493fb73d8e7474f9a54cdceafdf74", null ],
+    [ "USB_DEVICE_DESCRIPTOR_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#gaf345d16450600ec3c5723789c175e01d", null ],
+    [ "USB_LANGID_STRING_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#gac11ca709970b949d0de7fff02129a8b2", null ],
+    [ "USB_PRODUCT_STRING_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#gabdbb029660fed202bf6115de87c9e04b", null ],
+    [ "USB_QUALIFIER_DESCRIPTOR_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#ga51afccad9d1da6ffce6cd7ed902fffd7", null ],
+    [ "USB_SERIAL_STRING_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#gafbca2f6f7e1d2052b2d7410fde8e7a7f", null ],
+    [ "USB_USER_STRING_1_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#gaa02b42e092a776b4e67b5732d412bfa7", null ],
+    [ "USB_USER_STRING_2_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#ga6f4050a26cf55181dd5171ff7360b377", null ],
+    [ "USB_VENDOR_STRING_SIZE", "da/d8b/group___u_s_b_d___m_s_c___macros.html#ga574e6043d611306c0cfb6bf4ba689964", null ],
+    [ "USBD_NumberToChar", "da/d8b/group___u_s_b_d___m_s_c___macros.html#ga43e7b51bfc8051ddabb388bd9814a380", null ],
+    [ "USBD_ConfigSerialString", "d5/dc4/group___u_s_b_d___m_s_c___functions.html#ga2ee1d3a0ae0d40782f351c2f17a6dd42", null ],
+    [ "g_configDescriptor", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#ga7f1f1e2456e0ed1c2d8fdf38ce72d833", null ],
+    [ "g_deviceDescriptor", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#ga1a5cb2187cb0f4871636fc821a99407f", null ],
+    [ "g_qualifierDescriptor", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#ga16f1444a86e87744f586830a759f1609", null ],
+    [ "g_stringDescriptor", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#gaaff72ba5d845bf77c99743139bf97b84", null ],
+    [ "g_usbConfigDescriptor", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#gae4c693fda060408fd43e4914c52298b3", null ],
+    [ "g_usbDeviceDescriptor", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#gab7eacb44c55c00de78d4f96eb0df9710", null ],
+    [ "g_usbLandIDString", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#ga052ae515b4e9e8c60da22f4b9393b256", null ],
+    [ "g_usbProductString", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#ga897bd0297e45502af2f789a245bd47af", null ],
+    [ "g_usbQualifierDescriptor", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#ga748b21d61809d587825680fc8ebd6897", null ],
+    [ "g_usbSerialString", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#ga82b702c5e7ebef2a9c2750abcd798931", null ],
+    [ "g_usbVendorString", "d6/dbc/group___u_s_b_d___m_s_c___variables.html#ga0583ab10e0fb8eb2ea46a8198a0050af", null ]
+];

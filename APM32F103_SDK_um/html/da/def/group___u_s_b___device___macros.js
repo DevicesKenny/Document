@@ -1,0 +1,28 @@
+var group___u_s_b___device___macros =
+[
+    [ "Enumerates", "db/d99/group___u_s_b___device___enumerates.html", "db/d99/group___u_s_b___device___enumerates" ],
+    [ "Structures", "de/d19/group___u_s_b___device___structures.html", "de/d19/group___u_s_b___device___structures" ],
+    [ "Functions", "d7/d34/group___u_s_b___device___functions.html", "d7/d34/group___u_s_b___device___functions" ],
+    [ "USB_OTG_ClearInEpIntStatus", "da/def/group___u_s_b___device___macros.html#ga1645cb720c41c0f7b72aef53cc7d5cfd", null ],
+    [ "USB_OTG_ClearOutEpIntStatus", "da/def/group___u_s_b___device___macros.html#ga83094816be878c1153eda809537e7904", null ],
+    [ "USB_OTG_ConfigDeviceAddress", "da/def/group___u_s_b___device___macros.html#ga9b00878f6fb7f00bf0a47bb1ba9b2fba", null ],
+    [ "USB_OTG_ConfigDeviceSpeed", "da/def/group___u_s_b___device___macros.html#ga0f02916c8cbb72be9830f7a6e550a629", null ],
+    [ "USB_OTG_ConfigPeriodicFrameInterval", "da/def/group___u_s_b___device___macros.html#ga7a3b3fcda51f3c7c931a2be5aa1e42e2", null ],
+    [ "USB_OTG_ConfigTurnaroundTime", "da/def/group___u_s_b___device___macros.html#ga36ee56b81652767b4c65929c6958837e", null ],
+    [ "USB_OTG_DisableInEpEmptyInterrupt", "da/def/group___u_s_b___device___macros.html#gaef5e081396fe4a6e9e97424b0130d100", null ],
+    [ "USB_OTG_DisableInEpInterrupt", "da/def/group___u_s_b___device___macros.html#ga0c8b178a209ed3280c12f8a375840657", null ],
+    [ "USB_OTG_DisableInEpInterruptMask", "da/def/group___u_s_b___device___macros.html#gaf5be928cdcd290bd36c553efb2e20f89", null ],
+    [ "USB_OTG_DisableOutEpInterrupt", "da/def/group___u_s_b___device___macros.html#gacd23215403812ff27baab00e99d2d245", null ],
+    [ "USB_OTG_DisableOutEpInterruptMask", "da/def/group___u_s_b___device___macros.html#gafd8acc29c1c21224f26d0e95b6d9c362", null ],
+    [ "USB_OTG_DisableRemoteWakeupSignal", "da/def/group___u_s_b___device___macros.html#gafe61c44dfa39f9e51fcca21624ee3e4d", null ],
+    [ "USB_OTG_EnableInEpEmptyInterrupt", "da/def/group___u_s_b___device___macros.html#ga323e9644536d92c701f722b45a3c80b0", null ],
+    [ "USB_OTG_EnableInEpInterrupt", "da/def/group___u_s_b___device___macros.html#ga14502366ece4d25b280b74e0e991d99a", null ],
+    [ "USB_OTG_EnableInEpInterruptMask", "da/def/group___u_s_b___device___macros.html#gaf2573b20f15618a0733c201bb72540ae", null ],
+    [ "USB_OTG_EnableOutEpInterrupt", "da/def/group___u_s_b___device___macros.html#ga78d28ceacdf75fcc462f8ca10d945360", null ],
+    [ "USB_OTG_EnableOutEpInterruptMask", "da/def/group___u_s_b___device___macros.html#gac051eada703b83dd281576aaf96c88e9", null ],
+    [ "USB_OTG_EnableRemoteWakeupSignal", "da/def/group___u_s_b___device___macros.html#gabd6465b8ad74d0999b3c2160572cd30f", null ],
+    [ "USB_OTG_ReadInEpIntNumber", "da/def/group___u_s_b___device___macros.html#ga2398ca8e2253c9d30cbcb988d941b00e", null ],
+    [ "USB_OTG_ReadInEpStallStatus", "da/def/group___u_s_b___device___macros.html#ga57710c69c1892a821934ef15cb2fc1f4", null ],
+    [ "USB_OTG_ReadOutEpIntNumber", "da/def/group___u_s_b___device___macros.html#ga552f7a94d2fab3e5e74e256c399e43b1", null ],
+    [ "USB_OTG_ReadOutEpStallStatus", "da/def/group___u_s_b___device___macros.html#gaa750390881331374656408fd983d974a", null ]
+];

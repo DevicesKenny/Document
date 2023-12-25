@@ -1,0 +1,27 @@
+var group___s_d_i_o___macros =
+[
+    [ "ATACMD_BitNumber", "d8/d60/group___s_d_i_o___macros.html#gabd4fd3bb700b879f843ccc867db1832e", null ],
+    [ "CLKCTRL_CLKEN_BB", "d8/d60/group___s_d_i_o___macros.html#ga7339809a6a91959dfe70b53da48f090d", null ],
+    [ "CLKCTRL_OFFSET", "d8/d60/group___s_d_i_o___macros.html#ga3e8aaf4fe1c6c20fa6a2a01aafbca843", null ],
+    [ "CLKEN_BitNumber", "d8/d60/group___s_d_i_o___macros.html#ga6ad1da47f9d84c54eb620b9231ebec86", null ],
+    [ "CMD_ATACMD_BB", "d8/d60/group___s_d_i_o___macros.html#gabb7e537f931b6fdd3b49e826f2e19d7c", null ],
+    [ "CMD_CMDCPEN_BB", "d8/d60/group___s_d_i_o___macros.html#ga9af1860f7f9bae688733fd96fa37a93f", null ],
+    [ "CMD_INTEN_BB", "d8/d60/group___s_d_i_o___macros.html#ga2ef4aeab95dc6d9736d512aa90834db8", null ],
+    [ "CMD_OFFSET", "d8/d60/group___s_d_i_o___macros.html#gaf12d26702ce7a88d2a3dae87f000b75e", null ],
+    [ "CMD_SDIOSC_BB", "d8/d60/group___s_d_i_o___macros.html#ga3d47d25e6f49ba17171e3b81c4d894b3", null ],
+    [ "CMDCPEN_BitNumber", "d8/d60/group___s_d_i_o___macros.html#ga0758227fb91c6e84a12d6567b67e7e3a", null ],
+    [ "DCTRL_DMAEN_BB", "d8/d60/group___s_d_i_o___macros.html#ga43f7336d4f955c6cf1f676ccbc043fe9", null ],
+    [ "DCTRL_OFFSET", "d8/d60/group___s_d_i_o___macros.html#ga948c1382c4cfd3af3e406c4d0cdd4240", null ],
+    [ "DCTRL_RDWAIT_BB", "d8/d60/group___s_d_i_o___macros.html#ga5e126eb1621ee72ba8b918f9abead9f3", null ],
+    [ "DCTRL_RWSTOP_BB", "d8/d60/group___s_d_i_o___macros.html#ga678da1db835676b0fb1976cf3408e2d1", null ],
+    [ "DCTRL_RWSTR_BB", "d8/d60/group___s_d_i_o___macros.html#ga5b3fe091332557c302cf9027cf6ab624", null ],
+    [ "DCTRL_SDIOF_BB", "d8/d60/group___s_d_i_o___macros.html#gaa9638c3c74308f2c94572b553e6b95bd", null ],
+    [ "DMAEN_BitNumber", "d8/d60/group___s_d_i_o___macros.html#gab2af311e327213503f0dbf3d013b7944", null ],
+    [ "INTEN_BitNumber", "d8/d60/group___s_d_i_o___macros.html#ga2df535c97295d4c59b6e0998a5e6ba16", null ],
+    [ "RDWAIT_BitNumber", "d8/d60/group___s_d_i_o___macros.html#gadbfa859b6360a51b69e7c2c8dcb7254f", null ],
+    [ "RWSTOP_BitNumber", "d8/d60/group___s_d_i_o___macros.html#gae8c0654ad5cba23281bcfa77ef19b9cf", null ],
+    [ "RWSTR_BitNumber", "d8/d60/group___s_d_i_o___macros.html#gafb1d0e7fd411c44d248acd04d3223d05", null ],
+    [ "SDIO_OFFSET", "d8/d60/group___s_d_i_o___macros.html#gabf07aced03df5f46d57cea1d4f56d1e3", null ],
+    [ "SDIOF_BitNumber", "d8/d60/group___s_d_i_o___macros.html#ga5ebd7899ca36d6b9af1df6c9545a7b25", null ],
+    [ "SDIOSC_BitNumber", "d8/d60/group___s_d_i_o___macros.html#gad5dd8d99985216eba445699e2a37b3f6", null ]
+];
